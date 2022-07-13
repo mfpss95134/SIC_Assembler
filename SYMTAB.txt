@@ -1,0 +1,25 @@
+SYMBOL	Loc	Section
+---------------------------------
+BUFFER	48	default
+EUFEND	0	EXT
+LENGTH	45	default
+FIRST	0	default
+CLOOP	3	default
+ENDFIL	23	default
+RETADR	42	default
+BUFEND	4144	default
+RDREC	0	RDREC
+RLOOP	9	RDREC
+EXIT	32	RDREC
+INPUT	39	RDREC
+WRREC	0	WRREC
+WLOOP	6	WRREC
+A	0	REG
+X	1	REG
+L	2	REG
+PC	8	REG
+SW	9	REG
+B	3	REG
+S	4	REG
+T	5	REG
+F	6	REG
