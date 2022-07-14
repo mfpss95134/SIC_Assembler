@@ -6,6 +6,5 @@
 
 
 ## Reference
-- <https://github.com/a84959947mp45/nonogram_CSharp>
 - <https://github.com/andy6804tw/SIC>
 - <https://github.com/DOGPOOHMAN/SIC-Assembler-in-C>
