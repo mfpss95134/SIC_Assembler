@@ -1,8 +1,8 @@
 # SIC_Assembler_2019
 
 ## 系統程式期末專題
-- 目標: SIC -> ASM
-- 少部分obj code記憶體位址有誤，未完待續
+- 目標: SIC_ASM -> BIN_CODE
+- 少部分 BIN_CODE 記憶體位址有誤，未完待續
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/mfpss95134/SIC_Assembler_2019/refs/heads/main/demo.png">
